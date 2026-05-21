@@ -1,5 +1,5 @@
 # Hi, I'm Joyson Prince 👋
-> Mechanical Engineer turned Data Professional · UAE · Now building in Data Analytics & Engineering
+> Mechanical Engineer turned Data Professional · Now building in Data Analytics & Engineering
 
 ---
 
