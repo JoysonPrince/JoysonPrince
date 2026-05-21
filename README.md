@@ -1,14 +1,31 @@
-- 👋 Hello and Namaste! I am Joyson Prince
-- 👀 I’m a Mech Engg grad, with 3 years of working experience in the UAE & now post my career-break, have transitioned into Data Analytics.
-- Technical Skills: Microsoft Excel, Microsoft Power BI, Microsoft SQL Server, Python
-- 📫 How to reach me: https://linkedin.com/in/prince-joyson7 and joysonalvarez7@gmail.com
-  
-- ⚡ Something unknown about me:
-- Apart from solving business problems with data:
-- I'm extremely passionate about Philosophy - "If philosophy is the broom, we are the cleaner. And it's good occasionally to do a good spring cleaning of the mind"
-- Also into Resistance training and weekly outdoor sporting activities.
+# Hi, I'm Joyson Prince 👋
+> Mechanical Engineer turned Data Professional · UAE · Now building in Data Analytics & Engineering
 
-<!---
-JoysonPrince/JoysonPrince is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### About me:
+Mechanical Engineering graduate with 3 years of professional experience in the UAE.
+After a deliberate career break, I transitioned into data — driven by a genuine curiosity for turning raw numbers into decisions that matter. Currently deepening my focus into Data Engineering, having recently built a full Data Warehouse from scratch using MS SQL Server.
+
+---
+
+### Technical Skills:
+- MS SQL Server
+- Power BI
+- Microsoft Excel
+- Python
+
+---
+
+### Beyond the Data:
+> "If philosophy is the broom, we are the cleaner — and it's good, occasionally, to do a good spring cleaning of the mind."
+
+Philosophy shapes how I think. Resistance training and weekly outdoor sports keep me sharp.
+
+🧠 Philosophy &nbsp;&nbsp; 🏋️ Resistance Training &nbsp;&nbsp; 🏃 Outdoor Sports
+
+---
+
+### Get in Touch
+- LinkedIn: [prince-joyson7](https://linkedin.com/in/prince-joyson7)
+- Email: joysonalvarez7@gmail.com
